@@ -18,8 +18,17 @@ Step-by-step Guide:
 * Under UserSumo section, enter your UserSumo ID and save.
 * Finally, make full use of our intuitive Dashboard https://usersumo.com to manage your social proof widgets. Customise appearance, where they display and what goals you wish to track.
 
+== Screenshots ==
+
+1. Here's a screenshot of it in action
+2. Another screenshot
+3. Last screenshot
 
 == Changelog ==
+= 0.2 =
+
+* Added screenshots
+
 = 0.1 =
 
 * Initial release
