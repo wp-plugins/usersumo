@@ -9,10 +9,10 @@ UserSumo uses social proof to skyrocket your conversion rates by showing your vi
 == Description ==
 UserSumo is a [conversion rate optimization](https://usersumo.com) tool that you can use to skyrocket your conversion rates by showing your visitors that your product is in demand in real time, sending them a strong buying signal.
 
-**The UserSumo Process**
+=The UserSumo Process=
 Simply sign up for a UserSumo account and install this plugin to get started.
 
-**Need Help?**
+=Need Help?=
 [Contact our friendly support staff](https://usersumo.com/contact) for assistance.
 
 == Installation ==
