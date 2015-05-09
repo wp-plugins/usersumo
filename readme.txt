@@ -7,7 +7,13 @@ Tested up to: 4.1.1
 UserSumo uses social proof to skyrocket your conversion rates by showing your visitors that your product is in demand in real time, sending them a strong buying signal.
 
 == Description ==
-UserSumo uses social proof to skyrocket your conversion rates by showing your visitors that your product is in demand in real time, sending them a strong buying signal.
+UserSumo is a [conversion rate optimization](https://usersumo.com) tool that you can use to skyrocket your conversion rates by showing your visitors that your product is in demand in real time, sending them a strong buying signal.
+
+**The UserSumo Process**
+Simply sign up for a UserSumo account and install this plugin to get started.
+
+**Need Help?**
+[Contact our friendly support staff](https://usersumo.com/contact) for assistance.
 
 == Installation ==
 *Wordpress versions:* Wordpress 2.7 and up.
